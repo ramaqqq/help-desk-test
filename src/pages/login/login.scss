@@ -1,0 +1,55 @@
+#login {
+  .card {
+    .card-body {
+      .card-title {
+        font-style: normal;
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 18px;
+        /* identical to box height */
+
+        display: flex;
+        align-items: center;
+
+        color: #757575;
+      }
+      .card-subtitle {
+        font-style: normal;
+        font-weight: 700;
+        font-size: 22px;
+        line-height: 28px;
+        /* identical to box height */
+
+        display: flex;
+        align-items: center;
+
+        color: #333333;
+        margin-bottom: 30px;
+      }
+
+      form {
+        .form-label {
+          font-style: normal;
+          font-weight: 600;
+          font-size: 12px;
+          line-height: 15px;
+          /* identical to box height */
+
+          display: flex;
+          align-items: center;
+
+          color: #333333;
+        }
+        .form-control {
+          background: #f8f8f8;
+          border: 1px solid #d8d8d8;
+          border-radius: 4px;
+        }
+
+        button {
+          width: 100%;
+        }
+      }
+    }
+  }
+}

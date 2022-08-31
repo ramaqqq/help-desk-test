@@ -1,0 +1,14 @@
+#navbar {
+  padding-top: 1rem;
+  margin-bottom: 1rem;
+}
+
+#navbar .navbar .navbar-brand {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 23px;
+  line-height: 28px;
+  /* identical to box height */
+  color: #000000;
+}
+/*# sourceMappingURL=Navbar.css.map */

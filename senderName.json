@@ -1,0 +1,25 @@
+{
+  "senders": [
+    {"sender_id":"1","sender_name":"160k"},
+    {"sender_id":"2","sender_name":"Aptana"},
+    {"sender_id":"3","sender_name":"Connexist"},
+    {"sender_id":"4","sender_name":"DartMedia"},
+    {"sender_id":"5","sender_name":"DWS"},
+    {"sender_id":"6","sender_name":"Emobile"},
+    {"sender_id":"7","sender_name":"Integra"},
+    {"sender_id":"8","sender_name":"Kreasi"},
+    {"sender_id":"9","sender_name":"MDM"},
+    {"sender_id":"10","sender_name":"Monty"},
+    {"sender_id":"11","sender_name":"Nadyne"},
+    {"sender_id":"12","sender_name":"Nexmo"},
+    {"sender_id":"13","sender_name":"Orion"},
+    {"sender_id":"14","sender_name":"RIK"},
+    {"sender_id":"15","sender_name":"Svideo"},
+    {"sender_id":"16","sender_name":"Telin"},
+    {"sender_id":"17","sender_name":"Verihubs"},
+    {"sender_id":"18","sender_name":"WCZ"},
+    {"sender_id":"19","sender_name":"Yessly"},
+    {"sender_id":"20","sender_name":"BNT"},
+    {"sender_id":"21","sender_name":"Narindo"}
+  ]
+}

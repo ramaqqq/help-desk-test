@@ -1,0 +1,11 @@
+#table-incident {
+  background: #f9fafe;
+  padding-top: 1rem;
+}
+
+.scroll{
+  height: 765px;
+  /* width: 1500px; */
+  overflow: scroll;
+}
+/*# sourceMappingURL=TableIncident.css.map */

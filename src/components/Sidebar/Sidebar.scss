@@ -1,0 +1,61 @@
+#sidebar {
+  padding-top: 1rem;
+  .card {
+    height: 100vh;
+    background: #ffffff;
+    border: 1px solid rgba(36, 36, 36, 0.1);
+    border-radius: 30px;
+    .card-body {
+      .sidebar-header {
+        margin-bottom: 124px;
+        .card-title {
+          font-style: normal;
+          font-weight: 700;
+          font-size: 23px;
+          line-height: 28px;
+          /* identical to box height */
+
+          color: #e56f8c;
+        }
+        .card-subtitle {
+          font-style: normal;
+          font-weight: 500;
+          font-size: 12px;
+          line-height: 15px;
+          /* identical to box height */
+
+          color: #878787;
+        }
+      }
+      .sidebar-item {
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 19px;
+        padding: 13px 16px;
+
+        color: #878787;
+        &:hover {
+          font-style: normal;
+          font-weight: 600;
+          font-size: 16px;
+          line-height: 19px;
+          padding: 13px 16px;
+          color: #3c21f7;
+          background: #e2deff;
+          border-radius: 8px;
+        }
+        .active {
+          font-style: normal;
+          font-weight: 600;
+          font-size: 16px;
+          line-height: 19px;
+          padding: 13px 16px;
+          color: #3c21f7;
+          background: #e2deff;
+          border-radius: 8px;
+        }
+      }
+    }
+  }
+}
